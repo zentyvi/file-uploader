@@ -2,6 +2,8 @@
 
 Failik is a full-stack cloud file management application built as part of The Odin Project curriculum. It allows users to create accounts, organize their files into folders, upload assets, and securely share folder contents with unauthenticated users using temporary access links.
 
+Online preview: [failik.onrender.com](https://failik.onrender.com)
+
 ## Features
 
 - **User Authentication:** Secure sign-up and log-in system.
